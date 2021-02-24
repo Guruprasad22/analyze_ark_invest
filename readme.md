@@ -9,7 +9,7 @@ The database is upto date as of 02-23-2021.
 
 My strategy to swing trade is based on using this script to find any new stocks that ARK invests in across its ETFs.
 The idea is to buy it before others and sell it for a 5% profit.
-I have explained my strategy in this  [video]().
+I have explained my strategy in this  [video](https://youtu.be/52p1feIkRLw).
 To use the repo this is what you need to do.
 
 1. register your email ID for daily ARK transactions at https://ark-funds.com/trade-notifications

@@ -28,7 +28,7 @@ To use the repo this is what you need to do.
                     # raise CompDocError("%s corruption: seen[%d] == %d" % (qname, s, self.seen[s]))```
         details of this change can be found [here](https://stackoverflow.com/questions/12705527/reading-excel-files-with-xlrd)
 6. Now we are ready to process the daily files. Download the daily transactions file and move it under `analyze_ark_invest\src\resources\input\daily`.
-7. Run the application using command 'python main.py' from the project root folder 'analyze_ark_invest'.
+7. Run the application using command `python main.py` from the project root folder 'analyze_ark_invest'.
 8. choose option 1 and console output will flag if there are new buys on a given day.
 
 
